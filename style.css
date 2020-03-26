@@ -1,0 +1,30 @@
+body {
+  background: #eceef1;
+}
+header {
+  float: right;
+  color: #505050;
+}
+.header--column {
+  font-family: sans-serif;
+  font-size: 12px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.header__text {
+  display: block;
+}
+
+.header__text--link {
+  display: block;
+  text-decoration-line: none;
+}
+.header__button {
+  background: #0077c5;
+  border-radius: 4px;
+  border: 1px solid #4c4c4c;
+  padding: 0 20px;
+  color: white;
+  cursor: pointer;
+  height: 34px;
+}
